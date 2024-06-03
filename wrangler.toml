@@ -1,7 +1,7 @@
-name = "fastapi"
-compatibility_date="24-05-30"
+name = "speedometer"
+compatibility_date="2024-05-30"
 
 [vars]
-UPSTASH_REDIS_REST_TOKEN = Aa3hAAIncDFhMjdkMjlkZDgxNjI0MGE3ODgxZGQ2OTU5MDAwOTRhOXAxNDQ1MTM
+UPSTASH_REDIS_REST_TOKEN = "Aa3hAAIncDFhMjdkMjlkZDgxNjI0MGE3ODgxZGQ2OTU5MDAwOTRhOXAxNDQ1MTM"
 
-UPSTASH_REDIS_REST_URL = https://stable-skink-44513.upstash.io
+UPSTASH_REDIS_REST_URL = "https://stable-skink-44513.upstash.io"
