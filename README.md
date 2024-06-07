@@ -15,7 +15,7 @@ bun dev
 ```
 
 ## Technology used
-- Next.js
+- Next.js 
 - Hono
 - Cloudflare
 - Redis (upstash)
